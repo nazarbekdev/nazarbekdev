@@ -9,19 +9,19 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Cam Test apk**
+- 🔭 I’m currently working on: **Cam Test apk**
 
-- 🌱 I’m currently learning **DRF, Fast api, Flet**
+- 🌱 I’m currently learning: **DRF, Fast api, Flet**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nazarbekdev](https://github.com/nazarbekdev)
+- 👨‍💻 All of my projects are available at: [https://github.com/nazarbekdev](https://github.com/nazarbekdev)
 
-- 📝 I regularly write articles on [https://mruzdev.netlify.app/](https://mruzdev.netlify.app/)
+- 📝 I regularly write articles on: [https://mruzdev.netlify.app/](https://mruzdev.netlify.app/)
 
-- 💬 Ask me about **django, fast, opencv, aws, linode cloud**
+- 💬 Ask me about: **django, fast, opencv, aws, linode cloud**
 
-- 📫 How to reach me **nazarbekqobulov28gmail.com**
+- 📫 How to reach me: **nazarbekqobulov28gmail.com**
 
-- 📄 Know about my experiences [https://github.com/nazarbekdev](https://github.com/nazarbekdev)
+- 📄 Know about my experiences: [https://github.com/nazarbekdev](https://github.com/nazarbekdev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
