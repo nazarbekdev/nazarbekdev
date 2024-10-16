@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on: **Cam Test apk**
 
-- 🌱 I’m currently learning: **DRF, Fast api, Flet**
+- 🌱 I’m currently learning: **DRF, Fast api, Machine Learning**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/nazarbekdev](https://github.com/nazarbekdev)
 
